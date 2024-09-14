@@ -6,5 +6,3 @@ i am learning git and github<br>
 i am making changes<br>
 hello bro <br>
 iam back
-a ooru bro
-emaindhi bro
